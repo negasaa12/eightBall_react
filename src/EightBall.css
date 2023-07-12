@@ -1,0 +1,23 @@
+
+
+
+.EightBall {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 45px;
+   
+}
+
+.EightBall-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; 
+}
